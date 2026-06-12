@@ -1,1 +1,16 @@
-{ "bulletin": {}, "calendar": {}, "updated": null }
+{
+  "bulletins": [
+    {
+      "file": "bulletins/bulletin-2026-05-30.pdf",
+      "date": "2026-05-30",
+      "title": "Parshas Naso"
+    }
+  ],
+  "bulletin": {
+    "file": "bulletins/bulletin-2026-05-30.pdf",
+    "date": "2026-05-30",
+    "title": "Parshas Naso"
+  },
+  "calendar": {},
+  "updated": "2026-06-12T18:30:01Z"
+}
