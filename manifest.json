@@ -1,8 +1,1 @@
-{
-  "bulletins": [
-    { "file": "bulletins/bulletin-2026-06-12.pdf", "date": "2026-06-12", "title": "Parshas Shelach" }
-  ],
-  "bulletin": { "file": "bulletins/bulletin-2026-06-12.pdf", "date": "2026-06-12", "title": "Parshas Shelach" },
-  "calendar": {},
-  "updated": "2026-06-12T00:00:00.000Z"
-}
+{ "bulletin": {}, "calendar": {}, "updated": null }
