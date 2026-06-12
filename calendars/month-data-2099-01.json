@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "month": "2099-01",
+  "days": [
+    {
+      "date": "2099-01-01",
+      "dow": "Wed",
+      "shacharis": [
+        "8:00am"
+      ],
+      "mincha": [
+        {
+          "label": "Mincha",
+          "times": [
+            "1:00pm"
+          ]
+        }
+      ],
+      "maariv": [],
+      "zmanim": {
+        "shkia": "5:00pm"
+      }
+    }
+  ]
+}
