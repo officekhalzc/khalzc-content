@@ -4,11 +4,6 @@
       "file": "bulletins/bulletin-2026-05-30.pdf",
       "date": "2026-05-30",
       "title": "Parshas Naso"
-    },
-    {
-      "file": "bulletins/bulletin-2020-01-01.jpg",
-      "date": "2020-01-01",
-      "title": "RELAY TEST BULLETIN"
     }
   ],
   "bulletin": {
@@ -17,5 +12,5 @@
     "title": "Parshas Naso"
   },
   "calendar": {},
-  "updated": "2026-06-12T19:10:00.979Z"
+  "updated": "2026-06-12T19:10:16.000Z"
 }
