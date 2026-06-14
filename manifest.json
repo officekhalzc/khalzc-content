@@ -11,6 +11,13 @@
     "date": "2026-05-30",
     "title": "Parshas Naso"
   },
-  "calendar": {},
-  "updated": "2026-06-12T19:10:16.000Z"
+  "calendar": {
+    "file": "calendars/calendar-2026-07.jpg",
+    "month": "2026-07"
+  },
+  "updated": "2026-06-14T07:01:42.251Z",
+  "month_data": {
+    "file": "calendars/month-data-2026-07.json",
+    "month": "2026-07"
+  }
 }
