@@ -1,0 +1,1467 @@
+{
+  "version": 1,
+  "month": "2026-07",
+  "location": "Chicago",
+  "generated": "2026-06-14T07:01:39.228Z",
+  "days": [
+    {
+      "date": "2026-07-01",
+      "dow": "Wed",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "Early Mincha",
+          "times": [
+            "1:30pm",
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Mincha/Maariv",
+          "times": [
+            "8:19pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "8:30pm",
+            "9:00pm",
+            "9:30pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:29pm",
+        "candleLighting": "nullpm",
+        "plag": "6:54pm",
+        "shemaGRA": "9:06am",
+        "rabbeinuTam": "9:42pm"
+      }
+    },
+    {
+      "date": "2026-07-02",
+      "dow": "Thu",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "Early Mincha",
+          "times": [
+            "1:30pm",
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Mincha/Maariv",
+          "times": [
+            "8:19pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "8:30pm",
+            "9:00pm",
+            "9:30pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:29pm",
+        "candleLighting": "nullpm",
+        "plag": "6:54pm",
+        "shemaGRA": "9:07am",
+        "rabbeinuTam": "9:42pm"
+      }
+    },
+    {
+      "date": "2026-07-03",
+      "dow": "Fri",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "1st Mincha",
+          "times": [
+            "6:39pm"
+          ]
+        },
+        {
+          "label": "Plag",
+          "times": [
+            "6:54pm"
+          ]
+        },
+        {
+          "label": "2nd Mincha",
+          "times": [
+            "7:00pm"
+          ]
+        },
+        {
+          "label": "Hadlakas Neiros",
+          "times": [
+            "8:09pm"
+          ]
+        },
+        {
+          "label": "Mincha",
+          "times": [
+            "8:19pm"
+          ]
+        }
+      ],
+      "maariv": [],
+      "zmanim": {
+        "shkia": "8:29pm",
+        "candleLighting": "8:09pm",
+        "plag": "6:54pm",
+        "shemaGRA": "9:07am",
+        "rabbeinuTam": "9:42pm"
+      }
+    },
+    {
+      "date": "2026-07-04",
+      "dow": "Sha",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "1st Mincha",
+          "times": [
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Dor L'Dor",
+          "times": [
+            "6:20pm"
+          ]
+        },
+        {
+          "label": "Mincha",
+          "times": [
+            "8:08pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "9:18pm",
+            "9:28pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:28pm",
+        "candleLighting": "nullpm",
+        "plag": "6:54pm",
+        "shemaGRA": "9:08am",
+        "rabbeinuTam": "9:41pm"
+      }
+    },
+    {
+      "date": "2026-07-05",
+      "dow": "Sun",
+      "roshChodesh": false,
+      "shacharis": [
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am",
+        "9:45am",
+        "10:15am"
+      ],
+      "mincha": [
+        {
+          "label": "Early Mincha",
+          "times": [
+            "1:30pm",
+            "5:00pm",
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Mincha/Maariv",
+          "times": [
+            "8:18pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "8:30pm",
+            "9:00pm",
+            "9:30pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:28pm",
+        "candleLighting": "nullpm",
+        "plag": "6:54pm",
+        "shemaGRA": "9:08am",
+        "rabbeinuTam": "9:41pm"
+      }
+    },
+    {
+      "date": "2026-07-06",
+      "dow": "Mon",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "Early Mincha",
+          "times": [
+            "1:30pm",
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Mincha/Maariv",
+          "times": [
+            "8:18pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "8:30pm",
+            "9:00pm",
+            "9:30pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:28pm",
+        "candleLighting": "nullpm",
+        "plag": "6:53pm",
+        "shemaGRA": "9:08am",
+        "rabbeinuTam": "9:41pm"
+      }
+    },
+    {
+      "date": "2026-07-07",
+      "dow": "Tue",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "Early Mincha",
+          "times": [
+            "1:30pm",
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Mincha/Maariv",
+          "times": [
+            "8:17pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "8:30pm",
+            "9:00pm",
+            "9:30pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:27pm",
+        "candleLighting": "nullpm",
+        "plag": "6:53pm",
+        "shemaGRA": "9:09am",
+        "rabbeinuTam": "9:40pm"
+      }
+    },
+    {
+      "date": "2026-07-08",
+      "dow": "Wed",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "Early Mincha",
+          "times": [
+            "1:30pm",
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Mincha/Maariv",
+          "times": [
+            "8:17pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "8:30pm",
+            "9:00pm",
+            "9:30pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:27pm",
+        "candleLighting": "nullpm",
+        "plag": "6:53pm",
+        "shemaGRA": "9:09am",
+        "rabbeinuTam": "9:40pm"
+      }
+    },
+    {
+      "date": "2026-07-09",
+      "dow": "Thu",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "Early Mincha",
+          "times": [
+            "1:30pm",
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Mincha/Maariv",
+          "times": [
+            "8:17pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "8:30pm",
+            "9:00pm",
+            "9:30pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:27pm",
+        "candleLighting": "nullpm",
+        "plag": "6:53pm",
+        "shemaGRA": "9:10am",
+        "rabbeinuTam": "9:40pm"
+      }
+    },
+    {
+      "date": "2026-07-10",
+      "dow": "Fri",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "1st Mincha",
+          "times": [
+            "6:37pm"
+          ]
+        },
+        {
+          "label": "Plag",
+          "times": [
+            "6:52pm"
+          ]
+        },
+        {
+          "label": "2nd Mincha",
+          "times": [
+            "7:00pm"
+          ]
+        },
+        {
+          "label": "Hadlakas Neiros",
+          "times": [
+            "8:06pm"
+          ]
+        },
+        {
+          "label": "Mincha",
+          "times": [
+            "8:16pm"
+          ]
+        }
+      ],
+      "maariv": [],
+      "zmanim": {
+        "shkia": "8:26pm",
+        "candleLighting": "8:06pm",
+        "plag": "6:52pm",
+        "shemaGRA": "9:10am",
+        "rabbeinuTam": "9:39pm"
+      }
+    },
+    {
+      "date": "2026-07-11",
+      "dow": "Sha",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "1st Mincha",
+          "times": [
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Dor L'Dor",
+          "times": [
+            "6:20pm"
+          ]
+        },
+        {
+          "label": "Mincha",
+          "times": [
+            "8:06pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "9:16pm",
+            "9:26pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:26pm",
+        "candleLighting": "nullpm",
+        "plag": "6:52pm",
+        "shemaGRA": "9:10am",
+        "rabbeinuTam": "9:39pm"
+      }
+    },
+    {
+      "date": "2026-07-12",
+      "dow": "Sun",
+      "roshChodesh": false,
+      "shacharis": [
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am",
+        "9:45am",
+        "10:15am"
+      ],
+      "mincha": [
+        {
+          "label": "Early Mincha",
+          "times": [
+            "1:30pm",
+            "5:00pm",
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Mincha/Maariv",
+          "times": [
+            "8:15pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "8:30pm",
+            "9:00pm",
+            "9:30pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:25pm",
+        "candleLighting": "nullpm",
+        "plag": "6:51pm",
+        "shemaGRA": "9:11am",
+        "rabbeinuTam": "9:38pm"
+      }
+    },
+    {
+      "date": "2026-07-13",
+      "dow": "Mon",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "Early Mincha",
+          "times": [
+            "1:30pm",
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Mincha/Maariv",
+          "times": [
+            "8:15pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "8:30pm",
+            "9:00pm",
+            "9:30pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:25pm",
+        "candleLighting": "nullpm",
+        "plag": "6:51pm",
+        "shemaGRA": "9:11am",
+        "rabbeinuTam": "9:38pm"
+      }
+    },
+    {
+      "date": "2026-07-14",
+      "dow": "Tue",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "Early Mincha",
+          "times": [
+            "1:30pm",
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Mincha/Maariv",
+          "times": [
+            "8:14pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "8:30pm",
+            "9:00pm",
+            "9:30pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:24pm",
+        "candleLighting": "nullpm",
+        "plag": "6:51pm",
+        "shemaGRA": "9:12am",
+        "rabbeinuTam": "9:37pm"
+      }
+    },
+    {
+      "date": "2026-07-15",
+      "dow": "Wed",
+      "roshChodesh": true,
+      "shacharis": [
+        "6:35am",
+        "7:05am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "Early Mincha",
+          "times": [
+            "1:30pm",
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Mincha/Maariv",
+          "times": [
+            "8:13pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "8:30pm",
+            "9:00pm",
+            "9:30pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:23pm",
+        "candleLighting": "nullpm",
+        "plag": "6:50pm",
+        "shemaGRA": "9:12am",
+        "rabbeinuTam": "9:36pm"
+      }
+    },
+    {
+      "date": "2026-07-16",
+      "dow": "Thu",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "Early Mincha",
+          "times": [
+            "1:30pm",
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Mincha/Maariv",
+          "times": [
+            "8:13pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "8:30pm",
+            "9:00pm",
+            "9:30pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:23pm",
+        "candleLighting": "nullpm",
+        "plag": "6:50pm",
+        "shemaGRA": "9:13am",
+        "rabbeinuTam": "9:36pm"
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "dow": "Fri",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "1st Mincha",
+          "times": [
+            "6:34pm"
+          ]
+        },
+        {
+          "label": "Plag",
+          "times": [
+            "6:49pm"
+          ]
+        },
+        {
+          "label": "2nd Mincha",
+          "times": [
+            "7:00pm"
+          ]
+        },
+        {
+          "label": "Hadlakas Neiros",
+          "times": [
+            "8:02pm"
+          ]
+        },
+        {
+          "label": "Mincha",
+          "times": [
+            "8:12pm"
+          ]
+        }
+      ],
+      "maariv": [],
+      "zmanim": {
+        "shkia": "8:22pm",
+        "candleLighting": "8:02pm",
+        "plag": "6:49pm",
+        "shemaGRA": "9:13am",
+        "rabbeinuTam": "9:35pm"
+      }
+    },
+    {
+      "date": "2026-07-18",
+      "dow": "Sha",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "1st Mincha",
+          "times": [
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Dor L'Dor",
+          "times": [
+            "6:20pm"
+          ]
+        },
+        {
+          "label": "Mincha",
+          "times": [
+            "8:01pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "9:11pm",
+            "9:21pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:21pm",
+        "candleLighting": "nullpm",
+        "plag": "6:49pm",
+        "shemaGRA": "9:14am",
+        "rabbeinuTam": "9:34pm"
+      }
+    },
+    {
+      "date": "2026-07-19",
+      "dow": "Sun",
+      "roshChodesh": false,
+      "shacharis": [
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am",
+        "9:45am",
+        "10:15am"
+      ],
+      "mincha": [
+        {
+          "label": "Early Mincha",
+          "times": [
+            "1:30pm",
+            "5:00pm",
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Mincha/Maariv",
+          "times": [
+            "8:11pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "8:30pm",
+            "9:00pm",
+            "9:30pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:21pm",
+        "candleLighting": "nullpm",
+        "plag": "6:48pm",
+        "shemaGRA": "9:14am",
+        "rabbeinuTam": "9:34pm"
+      }
+    },
+    {
+      "date": "2026-07-20",
+      "dow": "Mon",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "Early Mincha",
+          "times": [
+            "1:30pm",
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Mincha/Maariv",
+          "times": [
+            "8:10pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "8:30pm",
+            "9:00pm",
+            "9:30pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:20pm",
+        "candleLighting": "nullpm",
+        "plag": "6:47pm",
+        "shemaGRA": "9:14am",
+        "rabbeinuTam": "9:33pm"
+      }
+    },
+    {
+      "date": "2026-07-21",
+      "dow": "Tue",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "Early Mincha",
+          "times": [
+            "1:30pm",
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Mincha/Maariv",
+          "times": [
+            "8:09pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "8:30pm",
+            "9:00pm",
+            "9:30pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:19pm",
+        "candleLighting": "nullpm",
+        "plag": "6:47pm",
+        "shemaGRA": "9:15am",
+        "rabbeinuTam": "9:32pm"
+      }
+    },
+    {
+      "date": "2026-07-22",
+      "dow": "Wed",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "Early Mincha",
+          "times": [
+            "1:30pm",
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Mincha/Maariv",
+          "times": [
+            "8:08pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "8:30pm",
+            "9:00pm",
+            "9:30pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:18pm",
+        "candleLighting": "nullpm",
+        "plag": "6:46pm",
+        "shemaGRA": "9:15am",
+        "rabbeinuTam": "9:31pm"
+      }
+    },
+    {
+      "date": "2026-07-23",
+      "dow": "Thu",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "Early Mincha",
+          "times": [
+            "1:30pm",
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Mincha/Maariv",
+          "times": [
+            "8:07pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "8:30pm",
+            "9:00pm",
+            "9:30pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:17pm",
+        "candleLighting": "nullpm",
+        "plag": "6:45pm",
+        "shemaGRA": "9:16am",
+        "rabbeinuTam": "9:30pm"
+      }
+    },
+    {
+      "date": "2026-07-24",
+      "dow": "Fri",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "1st Mincha",
+          "times": [
+            "6:30pm"
+          ]
+        },
+        {
+          "label": "Plag",
+          "times": [
+            "6:45pm"
+          ]
+        },
+        {
+          "label": "2nd Mincha",
+          "times": [
+            "7:00pm"
+          ]
+        },
+        {
+          "label": "Hadlakas Neiros",
+          "times": [
+            "7:56pm"
+          ]
+        },
+        {
+          "label": "Mincha",
+          "times": [
+            "8:06pm"
+          ]
+        }
+      ],
+      "maariv": [],
+      "zmanim": {
+        "shkia": "8:16pm",
+        "candleLighting": "7:56pm",
+        "plag": "6:45pm",
+        "shemaGRA": "9:16am",
+        "rabbeinuTam": "9:29pm"
+      }
+    },
+    {
+      "date": "2026-07-25",
+      "dow": "Sha",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "1st Mincha",
+          "times": [
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Dor L'Dor",
+          "times": [
+            "6:20pm"
+          ]
+        },
+        {
+          "label": "Mincha",
+          "times": [
+            "7:55pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "9:05pm",
+            "9:15pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:15pm",
+        "candleLighting": "nullpm",
+        "plag": "6:44pm",
+        "shemaGRA": "9:17am",
+        "rabbeinuTam": "9:28pm"
+      }
+    },
+    {
+      "date": "2026-07-26",
+      "dow": "Sun",
+      "roshChodesh": false,
+      "shacharis": [
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am",
+        "9:45am",
+        "10:15am"
+      ],
+      "mincha": [
+        {
+          "label": "Early Mincha",
+          "times": [
+            "1:30pm",
+            "5:00pm",
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Mincha/Maariv",
+          "times": [
+            "8:04pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "8:30pm",
+            "9:00pm",
+            "9:30pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:14pm",
+        "candleLighting": "nullpm",
+        "plag": "6:43pm",
+        "shemaGRA": "9:17am",
+        "rabbeinuTam": "9:27pm"
+      }
+    },
+    {
+      "date": "2026-07-27",
+      "dow": "Mon",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "Early Mincha",
+          "times": [
+            "1:30pm",
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Mincha/Maariv",
+          "times": [
+            "8:03pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "8:30pm",
+            "9:00pm",
+            "9:30pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:13pm",
+        "candleLighting": "nullpm",
+        "plag": "6:42pm",
+        "shemaGRA": "9:18am",
+        "rabbeinuTam": "9:26pm"
+      }
+    },
+    {
+      "date": "2026-07-28",
+      "dow": "Tue",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "Early Mincha",
+          "times": [
+            "1:30pm",
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Mincha/Maariv",
+          "times": [
+            "8:02pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "8:30pm",
+            "9:00pm",
+            "9:30pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:12pm",
+        "candleLighting": "nullpm",
+        "plag": "6:42pm",
+        "shemaGRA": "9:18am",
+        "rabbeinuTam": "9:25pm"
+      }
+    },
+    {
+      "date": "2026-07-29",
+      "dow": "Wed",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "Early Mincha",
+          "times": [
+            "1:30pm",
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Mincha/Maariv",
+          "times": [
+            "8:01pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "8:30pm",
+            "9:00pm",
+            "9:30pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:11pm",
+        "candleLighting": "nullpm",
+        "plag": "6:41pm",
+        "shemaGRA": "9:19am",
+        "rabbeinuTam": "9:24pm"
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "dow": "Thu",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "Early Mincha",
+          "times": [
+            "1:30pm",
+            "6:00pm"
+          ]
+        },
+        {
+          "label": "Mincha/Maariv",
+          "times": [
+            "8:00pm"
+          ]
+        }
+      ],
+      "maariv": [
+        {
+          "label": "Maariv",
+          "times": [
+            "8:30pm",
+            "9:00pm",
+            "9:30pm"
+          ]
+        }
+      ],
+      "zmanim": {
+        "shkia": "8:10pm",
+        "candleLighting": "nullpm",
+        "plag": "6:40pm",
+        "shemaGRA": "9:19am",
+        "rabbeinuTam": "9:23pm"
+      }
+    },
+    {
+      "date": "2026-07-31",
+      "dow": "Fri",
+      "roshChodesh": false,
+      "shacharis": [
+        "6:45am",
+        "7:15am",
+        "7:45am",
+        "8:15am",
+        "8:45am",
+        "9:15am"
+      ],
+      "mincha": [
+        {
+          "label": "1st Mincha",
+          "times": [
+            "6:24pm"
+          ]
+        },
+        {
+          "label": "Plag",
+          "times": [
+            "6:39pm"
+          ]
+        },
+        {
+          "label": "2nd Mincha",
+          "times": [
+            "7:00pm"
+          ]
+        },
+        {
+          "label": "Hadlakas Neiros",
+          "times": [
+            "7:49pm"
+          ]
+        },
+        {
+          "label": "Mincha",
+          "times": [
+            "7:59pm"
+          ]
+        }
+      ],
+      "maariv": [],
+      "zmanim": {
+        "shkia": "8:09pm",
+        "candleLighting": "7:49pm",
+        "plag": "6:39pm",
+        "shemaGRA": "9:20am",
+        "rabbeinuTam": "9:22pm"
+      }
+    }
+  ]
+}
